@@ -14,3 +14,5 @@ Incluir os dados do seu perfil;
 Gerenciar avaliações;
 Visualizar a lista de filmes ou series avaliados;
 O usuário poderá ver o trailers, videos e musicas;
+
+https://www.figma.com/file/uidVKEeAZwjDutFoMtNc81/ProgMobile?node-id=0%3A1
