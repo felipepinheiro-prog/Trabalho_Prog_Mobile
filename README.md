@@ -14,6 +14,3 @@ Incluir os dados do seu perfil;
 Gerenciar avaliações;
 Visualizar a lista de filmes ou series avaliados;
 O usuário poderá ver o trailers, videos e musicas;
-
-
-
